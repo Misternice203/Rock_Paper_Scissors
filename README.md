@@ -9,7 +9,7 @@ I created this project as part of my Python learning journey.
 ## Features
 * User vs Computer gameplay
 * Randomized computer choices
-* Inout validation (handles invalid input by asking for correct choice)
+* Input validation (handles invalid input by asking for correct choice)
 * score tracking
 * Replay option to continue playing the game
 
