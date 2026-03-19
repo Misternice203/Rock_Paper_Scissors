@@ -1,2 +1,2 @@
-# Rock_paper_scissors
+# Rock_Paper_Scissors
 Simple rock, paper, scissors game using Command Line Interface.
