@@ -37,7 +37,7 @@ while True:
     else:
         continue
 
-    play_again = input("Do you want to play again? (yes/no): ")
+    play_again = input("Do you want to play again? (yes/no): ").lower()
     if play_again != "yes":
         print("Thank you for playing")
         print(f"Your score: {player_score}")
